@@ -1,3 +1,7 @@
-just some changes
-changes using vim commands
+
 ....
+adding more changes to a.txt using cat command
+
+
+
+
