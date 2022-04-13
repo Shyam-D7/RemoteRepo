@@ -1,7 +1,1 @@
-first line inside a.txt
-
-Hi hello, this is shyam sunder reddy eresu
-Good morning 
-Again
-
-Checking the extension add
+third line
