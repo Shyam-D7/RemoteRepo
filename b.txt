@@ -1,3 +1,2 @@
-first line inside b.txt
-
-second line in b.txt
+fourth line modification
+git commit -a -m "fourth line added"
