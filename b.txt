@@ -1,2 +1,5 @@
 first line inside b.txt
 
+Now it's time to make modifications in the b file
+
+Same goes in the b file
