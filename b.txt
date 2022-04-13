@@ -1,2 +1,4 @@
-fourth line modification
-git commit -a -m "fourth line added"
+fourth line modificatii
+Rt commit -a -m "fourth line added"
+making changes in the b.txt file using vim commands
+

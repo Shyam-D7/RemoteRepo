@@ -1,1 +1,3 @@
 just some changes
+changes using vim commands
+....
