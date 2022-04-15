@@ -1,4 +1,5 @@
-fourth line modificatii
-Rt commit -a -m "fourth line added"
+fourth line modificati
+on changing the content with vim commands
+
 making changes in the b.txt file using vim commands
 
